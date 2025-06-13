@@ -71,6 +71,10 @@ To ensure smooth collaboration, please follow these guidelines:
 - Refine ethical knowledge retrieval mechanisms for increased transparency.
 - Collaborate with policymakers & researchers to integrate AI-driven sustainability models.
 
+# 📖 Research & Documentation
+Read the full research proposal [here](docs/research_proposal.md).
+
+
 # 📝 License
 This project is licensed under the MIT License – feel free to modify and contribute!
 
