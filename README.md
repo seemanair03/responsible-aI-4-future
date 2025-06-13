@@ -20,11 +20,11 @@ With growing environmental concerns and misinformation challenges, this AI syste
 - Explainable AI (XAI): Ensures ethical and fair AI responses.
 
    # 📂 Folder Structure
-├── src/                 # Source code & AI model implementations
-├── docs/                # Concept documents & research proposal
-├── data/                # Datasets for resource tracking & knowledge retrieval
-├── README.md            # Project documentation & overview
-├── LICENSE.md           # Open-source licensing information
+      ├── src/                 # Source code & AI model implementations
+      ├── docs/                # Concept documents & research proposal
+      ├── data/                # Datasets for resource tracking & knowledge retrieval
+      ├── README.md            # Project documentation & overview
+      ├── LICENSE.md           # Open-source licensing information
 
 # 💡 How to Contribute
 We welcome collaboration!
