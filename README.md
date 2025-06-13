@@ -31,6 +31,7 @@ Tracks, predicts, and optimizes natural resource usage, preventing environmental
 
 ### B. Ethical Information Retrieval Module
 Ensures truthful, bias-free information reaches users, reducing misinformation and enabling responsible knowledge-sharing.
+
 Both modules feed into a Unified AI Decision-Making Layer, which:
 - Balances sustainability with knowledge integrity.
 - Learns continuously from new datasets and human feedback.
