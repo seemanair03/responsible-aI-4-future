@@ -1,0 +1,107 @@
+{
+  "data_stream": [
+    {
+      "timestamp": "2025-06-13T14:30:00Z",
+      "resource_management": {
+        "location": "Amazon Rainforest",
+        "temperature_celsius": 28.3,
+        "humidity_percent": 85,
+        "deforestation_rate": 0.02,
+        "water_quality_index": 78,
+        "biodiversity_score": 92,
+        "recommended_action": "Increase afforestation efforts to counter deforestation.",
+        "ai_feedback": {
+          "predicted_deforestation_in_6_months": 0.07,
+          "carbon_absorption_loss": "High",
+          "automated_alerts": [
+            {
+              "type": "Policy Alert",
+              "message": "Deforestation rate exceeds sustainable limits. Recommend intervention."
+            },
+            {
+              "type": "Ecological Risk",
+              "message": "Biodiversity decline detected. Urgent conservation efforts required."
+            }
+          ]
+        }
+      },
+      "ethical_information": {
+        "query": "Effects of climate change on biodiversity",
+        "retrieved_sources": [
+          {
+            "source": "UN Climate Report 2025",
+            "credibility_score": 95,
+            "bias_rating": "Low",
+            "content_summary": "Climate change accelerates species loss due to habitat destruction."
+          },
+          {
+            "source": "Independent Research Journal",
+            "credibility_score": 88,
+            "bias_rating": "Moderate",
+            "content_summary": "Biodiversity conservation strategies require stronger climate policies."
+          }
+        ],
+        "validated_response": "Climate change negatively impacts biodiversity by altering habitats and ecological balance.",
+        "ai_feedback": {
+          "misinformation_risk": "Low",
+          "confidence_score": 92,
+          "automated_alerts": [
+            {
+              "type": "Fact Verification",
+              "message": "Validated sources confirm biodiversity risk due to climate change."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "timestamp": "2025-06-13T15:00:00Z",
+      "resource_management": {
+        "location": "Arctic Region",
+        "temperature_celsius": -2.1,
+        "humidity_percent": 70,
+        "sea_ice_extent": 3.2,
+        "carbon_emission_level": 400,
+        "recommended_action": "Reduce carbon emissions to slow ice melting and preserve ecosystems.",
+        "ai_feedback": {
+          "predicted_ice_melting_rate": "Rapid",
+          "climate_intervention_suggestion": "Enforce carbon neutrality policies to slow impact.",
+          "automated_alerts": [
+            {
+              "type": "Climate Warning",
+              "message": "Sea ice extent declining faster than forecasted."
+            }
+          ]
+        }
+      },
+      "ethical_information": {
+        "query": "Current state of Arctic ice levels",
+        "retrieved_sources": [
+          {
+            "source": "NASA Climate Data",
+            "credibility_score": 97,
+            "bias_rating": "Low",
+            "content_summary": "Sea ice levels continue to decline due to global warming."
+          },
+          {
+            "source": "Environmental NGO Report",
+            "credibility_score": 90,
+            "bias_rating": "Low",
+            "content_summary": "Urgent policy action needed to curb Arctic ice loss."
+          }
+        ],
+        "validated_response": "Arctic sea ice levels are decreasing, highlighting the need for immediate climate mitigation.",
+        "ai_feedback": {
+          "misinformation_risk": "None detected",
+          "confidence_score": 96,
+          "automated_alerts": [
+            {
+              "type": "Policy Urgency",
+              "message": "Recommended immediate global climate action to mitigate ice loss."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
